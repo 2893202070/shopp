@@ -1,0 +1,766 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b560e25-9edf-4db4-b40e-05a6c00cead7" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/shopp_basic_parent/target/" />
+    <ignored path="$PROJECT_DIR$/shopp_config_server_9527/target/" />
+    <ignored path="$PROJECT_DIR$/shopp_eureka_server_7001/target/" />
+    <ignored path="$PROJECT_DIR$/shopp_plat_parent/target/" />
+    <ignored path="$PROJECT_DIR$/shopp_zuul_server_1922/target/" />
+    <ignored path="$PROJECT_DIR$/shopp_basic_parent/shopp_basic_utils/target/" />
+    <ignored path="$PROJECT_DIR$/shopp_plat_parent/shopp_plat_service/target/" />
+    <ignored path="$PROJECT_DIR$/shopp_plat_parent/shopp_plat_interface/target/" />
+    <ignored path="$PROJECT_DIR$/shopp_zuul_server_9527/target/" />
+    <ignored path="$PROJECT_DIR$/shopp_config_server_1996/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1505646325">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="23" />
+          <entry key="xml" value="14" />
+          <entry key="yml" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="23" />
+          <entry key="XML" value="14" />
+          <entry key="YAML" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="10" />
+          <entry key="java" value="529" />
+          <entry key="xml" value="144" />
+          <entry key="yml" value="58" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="529" />
+          <entry key="PLAIN_TEXT" value="10" />
+          <entry key="XML" value="144" />
+          <entry key="YAML" value="58" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/shopp_basic_parent/shopp_basic_utils/src/main/java/com/moyu/shopp/utils/AjaxResult.java" />
+        <option value="$PROJECT_DIR$/shopp_plat_parent/shopp_plat_interface/pom.xml" />
+        <option value="$PROJECT_DIR$/shopp_plat_parent/shopp_plat_interface/src/main/java/com/moyu/shopp/domain/Employee.java" />
+        <option value="$PROJECT_DIR$/shopp_eureka_server_7001/pom.xml" />
+        <option value="$PROJECT_DIR$/shopp_eureka_server_7001/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/shopp_eureka_server_7001/src/main/java/com/moyu/shopp/EurekaServerApplication_7001.java" />
+        <option value="$PROJECT_DIR$/shopp_plat_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/shopp_plat_parent/shopp_plat_service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/shopp_plat_parent/shopp_plat_service/src/main/java/com/moyu/shopp/PlatServiceApplication_8001.java" />
+        <option value="$PROJECT_DIR$/shopp_plat_parent/shopp_plat_service/src/main/java/com/moyu/shopp/controller/EmployeeController.java" />
+        <option value="$PROJECT_DIR$/shopp_plat_parent/shopp_plat_service/src/main/java/com/moyu/shopp/swagger/Swagger2.java" />
+        <option value="$PROJECT_DIR$/shopp_zuul_server_1922/pom.xml" />
+        <option value="$PROJECT_DIR$/shopp_zuul_server_1922/src/main/java/com/moyu/shopp/swagger/DocumentationConfig.java" />
+        <option value="$PROJECT_DIR$/shopp_plat_parent/shopp_plat_service/pom.xml" />
+        <option value="$PROJECT_DIR$/shopp_zuul_server_1922/src/main/java/com/moyu/shopp/ZuulApplication_1922.java" />
+        <option value="$PROJECT_DIR$/shopp_zuul_server_1922/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/shopp_zuul_server_1922/src/main/java/com/moyu/shopp/swagger/SwaggerConfig.java" />
+        <option value="$PROJECT_DIR$/shopp_zuul_server_1922/src/main/java/com/moyu/shopp/ZuulApplication_9527.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/shopp_zuul_server_9527/src/main/resources/application.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="755" />
+    <option name="y" value="58" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="shopp_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopp_parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopp_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopp_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shopp_eureka_server_7001" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopp_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopp_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shopp_eureka_server_7001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopp_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopp_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shopp_eureka_server_7001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopp_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopp_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shopp_eureka_server_7001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopp_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopp_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shopp_eureka_server_7001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopp_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopp_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shopp_eureka_server_7001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="moyu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopp_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopp_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shopp_eureka_server_7001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="moyu" type="462c0819:PsiDirectoryNode" />
+              <item name="shopp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopp_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopp_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shopp_plat_parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopp_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopp_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shopp_plat_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shopp_plat_service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopp_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopp_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shopp_plat_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shopp_plat_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopp_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopp_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shopp_plat_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shopp_plat_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopp_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopp_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shopp_plat_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shopp_plat_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopp_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopp_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shopp_plat_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shopp_plat_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopp_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopp_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shopp_plat_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shopp_plat_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="moyu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopp_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopp_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shopp_plat_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shopp_plat_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="moyu" type="462c0819:PsiDirectoryNode" />
+              <item name="shopp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopp_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopp_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shopp_plat_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shopp_plat_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="moyu" type="462c0819:PsiDirectoryNode" />
+              <item name="shopp" type="462c0819:PsiDirectoryNode" />
+              <item name="swagger" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopp_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopp_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shopp_plat_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shopp_plat_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopp_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopp_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shopp_zuul_server_9527" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopp_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopp_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shopp_zuul_server_9527" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopp_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopp_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shopp_zuul_server_9527" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopp_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopp_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shopp_zuul_server_9527" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopp_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopp_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shopp_zuul_server_9527" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopp_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopp_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shopp_zuul_server_9527" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="moyu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopp_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopp_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shopp_zuul_server_9527" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="moyu" type="462c0819:PsiDirectoryNode" />
+              <item name="shopp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopp_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopp_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shopp_zuul_server_9527" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="moyu" type="462c0819:PsiDirectoryNode" />
+              <item name="shopp" type="462c0819:PsiDirectoryNode" />
+              <item name="swagger" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopp_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopp_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shopp_zuul_server_9527" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550985945975" />
+    <property name="last_opened_file_path" value="E:/Git/cmd/git.exe" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.30114943" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/shopp_plat_parent/shopp_plat_service/src/main/java/com/moyu/shopp/PlatServiceApplication_8001.java" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="EurekaServerApplication_7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="shopp_eureka_server_7001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.moyu.shopp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.moyu.shopp.EurekaServerApplication_7001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlatServiceApplication_8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="shopp_plat_service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.moyu.shopp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.moyu.shopp.PlatServiceApplication_8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulApplication_9527" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="shopp_zuul_server_9527" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.moyu.shopp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.moyu.shopp.ZuulApplication_9527" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.EurekaServerApplication_7001" />
+      <item itemvalue="Spring Boot.PlatServiceApplication_8001" />
+      <item itemvalue="Spring Boot.ZuulApplication_9527" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ZuulApplication_9527" />
+        <item itemvalue="Spring Boot.PlatServiceApplication_8001" />
+        <item itemvalue="Spring Boot.EurekaServerApplication_7001" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b560e25-9edf-4db4-b40e-05a6c00cead7" name="Default Changelist" comment="" />
+      <created>1550923503184</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550923503184</updated>
+      <workItem from="1550923507558" duration="3618000" />
+      <workItem from="1550970793561" duration="5509000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9127000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49836066" visible="true" weight="0.25799572" />
+      <window_info id="Structure" order="1" sideWeight="0.50163937" side_tool="true" weight="0.2553305" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Spring" order="0" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.3391116" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32936078" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32995737" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/shopp_basic_parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopp_config_server_1996/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopp_basic_parent/shopp_basic_utils/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopp_basic_parent/shopp_basic_utils/src/main/java/com/moyu/shopp/utils/AjaxResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="534">
+          <caret line="44" column="18" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopp_plat_parent/shopp_plat_interface/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopp_plat_parent/shopp_plat_interface/src/main/java/com/moyu/shopp/domain/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="744">
+          <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopp_eureka_server_7001/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopp_eureka_server_7001/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="71" selection-start-line="9" selection-start-column="71" selection-end-line="9" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopp_zuul_server_1922/src/main/java/com/moyu/shopp/s.java" />
+    <entry file="file://$PROJECT_DIR$/shopp_plat_parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="21" column="44" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopp_plat_parent/shopp_plat_service/src/main/java/com/moyu/shopp/swagger.java" />
+    <entry file="file://$PROJECT_DIR$/shopp_zuul_server_1922/src/main/java/com/moyu/shopp/swagger.java" />
+    <entry file="file://$PROJECT_DIR$/shopp_plat_parent/shopp_plat_service/src/main/java/com/moyu/shopp/controller/EmployeeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopp_plat_parent/shopp_plat_service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopp_zuul_server_9527/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopp_plat_parent/shopp_plat_service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopp_eureka_server_7001/src/main/java/com/moyu/shopp/EurekaServerApplication_7001.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopp_plat_parent/shopp_plat_service/src/main/java/com/moyu/shopp/PlatServiceApplication_8001.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopp_zuul_server_9527/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopp_zuul_server_9527/src/main/java/com/moyu/shopp/ZuulApplication_9527.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopp_plat_parent/shopp_plat_service/src/main/java/com/moyu/shopp/swagger/Swagger2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="33" column="39" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopp_zuul_server_9527/src/main/java/com/moyu/shopp/swagger/SwaggerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="25" column="56" selection-start-line="25" selection-start-column="56" selection-end-line="25" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopp_zuul_server_9527/src/main/java/com/moyu/shopp/swagger/DocumentationConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="51" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>shopp_basic_parent</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.30114943" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

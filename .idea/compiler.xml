@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="shopp_basic_utils" />
+        <module name="shopp_config_server_1996" />
+        <module name="shopp_eureka_server_7001" />
+        <module name="shopp_plat_interface" />
+        <module name="shopp_plat_service" />
+        <module name="shopp_zuul_server_9527" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
