@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b560e25-9edf-4db4-b40e-05a6c00cead7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopp_config_server_1996/src/main/java/com/moyu/shopp/ConfigServerApplication_1996.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopp_config_server_1996/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shopp_plat_parent/shopp_plat_service/src/main/resources/bootstrap.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shopp_config_server_1996/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/shopp_config_server_1996/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shopp_plat_parent/shopp_plat_service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/shopp_plat_parent/shopp_plat_service/src/main/resources/application2.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shopp_plat_parent/shopp_plat_service/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopp_plat_parent/shopp_plat_service/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/shopp_plat_parent/shopp_plat_service/src/main/resources/bootstrap.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -33,6 +27,7 @@
     <session id="1505646325">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.39" value="1" />
           <entry key="project.open.time.8" value="1" />
@@ -42,7 +37,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="28" />
+          <entry key="java" value="29" />
           <entry key="xml" value="16" />
           <entry key="yml" value="12" />
         </counts>
@@ -50,7 +45,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="28" />
+          <entry key="JAVA" value="29" />
           <entry key="XML" value="16" />
           <entry key="YAML" value="12" />
         </counts>
@@ -59,16 +54,17 @@
         <counts>
           <entry key="dummy" value="13" />
           <entry key="java" value="529" />
+          <entry key="txt" value="12" />
           <entry key="xml" value="149" />
-          <entry key="yml" value="316" />
+          <entry key="yml" value="328" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="529" />
-          <entry key="PLAIN_TEXT" value="13" />
+          <entry key="PLAIN_TEXT" value="25" />
           <entry key="XML" value="149" />
-          <entry key="YAML" value="316" />
+          <entry key="YAML" value="328" />
         </counts>
       </usages-collector>
     </session>
@@ -100,7 +96,7 @@
         <entry file="file://$PROJECT_DIR$/shopp_eureka_server_7001/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
-              <caret line="9" column="58" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="58" />
+              <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -117,20 +113,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shopp_eureka_server_7001/pom.xml">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/shopp_plat_parent/shopp_plat_service/src/main/resources/bootstrap.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+            <state relative-caret-position="264">
+              <caret line="11" column="42" lean-forward="true" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/shopp_plat_parent/shopp_plat_service/src/main/resources/bootstrap.yml">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shopp_plat_parent/shopp_plat_service/src/main/java/com/moyu/shopp/controller/EmployeeController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+            <state relative-caret-position="288">
+              <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -265,70 +264,6 @@
             <path>
               <item name="shopp_parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="shopp_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="shopp_config_server_1996" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shopp_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shopp_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="shopp_config_server_1996" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shopp_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shopp_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="shopp_config_server_1996" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shopp_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shopp_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="shopp_config_server_1996" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shopp_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shopp_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="shopp_config_server_1996" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shopp_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shopp_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="shopp_config_server_1996" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="moyu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shopp_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shopp_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="shopp_config_server_1996" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="moyu" type="462c0819:PsiDirectoryNode" />
-              <item name="shopp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shopp_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shopp_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="shopp_config_server_1996" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shopp_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shopp_parent" type="462c0819:PsiDirectoryNode" />
               <item name="shopp_eureka_server_7001" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -351,36 +286,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shopp_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shopp_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="shopp_eureka_server_7001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shopp_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shopp_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="shopp_eureka_server_7001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="moyu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shopp_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shopp_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="shopp_eureka_server_7001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="moyu" type="462c0819:PsiDirectoryNode" />
-              <item name="shopp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="shopp_parent" type="b2602c69:ProjectViewProjectNode" />
@@ -423,96 +328,14 @@
               <item name="shopp_plat_service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shopp_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shopp_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="shopp_plat_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="shopp_plat_service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shopp_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shopp_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="shopp_plat_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="shopp_plat_service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="moyu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shopp_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shopp_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="shopp_plat_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="shopp_plat_service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="moyu" type="462c0819:PsiDirectoryNode" />
-              <item name="shopp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shopp_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shopp_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="shopp_plat_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="shopp_plat_service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="moyu" type="462c0819:PsiDirectoryNode" />
-              <item name="shopp" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shopp_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shopp_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="shopp_plat_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="shopp_plat_service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="shopp_parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="shopp_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="shopp_zuul_server_9527" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shopp_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shopp_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="shopp_zuul_server_9527" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shopp_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shopp_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="shopp_zuul_server_9527" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shopp_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shopp_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="shopp_zuul_server_9527" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shopp_parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shopp_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="shopp_zuul_server_9527" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="shopp_plat_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="shopp_plat_service" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -528,14 +351,14 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550988493133" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550992816500" />
     <property name="last_opened_file_path" value="E:/Git/cmd/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.30114943" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/shopp_plat_parent/shopp_plat_service/src/main/java/com/moyu/shopp/PlatServiceApplication_8001.java" />
   </component>
   <component name="RecentsManager">
@@ -625,7 +448,7 @@
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\msi\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -636,18 +459,25 @@
       <updated>1550923503184</updated>
       <workItem from="1550923507558" duration="3618000" />
       <workItem from="1550970793561" duration="5509000" />
-      <workItem from="1550986390494" duration="1939000" />
+      <workItem from="1550986390494" duration="5973000" />
     </task>
+    <task id="LOCAL-00001" summary="配置中心部署">
+      <created>1550988521569</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1550988521569</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11066000" />
+    <option name="totallyTimeSpent" value="15100000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49836066" visible="true" weight="0.3576759" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49836066" visible="true" weight="0.3576759" />
       <window_info id="Structure" order="1" sideWeight="0.50163937" side_tool="true" weight="0.2553305" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -658,7 +488,7 @@
       <window_info anchor="bottom" id="Spring" order="0" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.054229934" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.3394794" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -686,6 +516,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="配置中心部署" />
+    <option name="LAST_COMMIT_MESSAGE" value="配置中心部署" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/shopp_basic_parent/pom.xml">
@@ -725,13 +559,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/shopp_plat_parent/shopp_plat_service/src/main/java/com/moyu/shopp/swagger.java" />
     <entry file="file://$PROJECT_DIR$/shopp_zuul_server_1922/src/main/java/com/moyu/shopp/swagger.java" />
-    <entry file="file://$PROJECT_DIR$/shopp_plat_parent/shopp_plat_service/src/main/java/com/moyu/shopp/controller/EmployeeController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/shopp_plat_parent/shopp_plat_service/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="552">
@@ -839,10 +666,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shopp_eureka_server_7001/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/shopp_plat_parent/shopp_plat_service/src/main/resources/application2.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.3/eureka-client-1.9.3.jar!/com/netflix/discovery/shared/transport/jersey/AbstractJerseyEurekaHttpClient.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="58" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="58" />
+        <state relative-caret-position="2">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
         </state>
       </provider>
     </entry>
@@ -858,20 +688,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shopp_plat_parent/shopp_plat_service/src/main/resources/application2.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.3/eureka-client-1.9.3.jar!/com/netflix/discovery/shared/transport/jersey/AbstractJerseyEurekaHttpClient.class">
+    <entry file="file://$PROJECT_DIR$/shopp_plat_parent/shopp_plat_service/src/main/java/com/moyu/shopp/controller/EmployeeController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2">
-          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        <state relative-caret-position="288">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shopp_eureka_server_7001/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/shopp_plat_parent/shopp_plat_service/src/main/resources/bootstrap.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+        <state relative-caret-position="264">
+          <caret line="11" column="42" lean-forward="true" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
         </state>
       </provider>
     </entry>
