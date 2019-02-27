@@ -1,8 +1,14 @@
 package com.moyu.shopp.utils;
 
+import jdk.nashorn.api.scripting.ScriptObjectMirror;
+
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Set;
+
 public class AjaxResult {
     private boolean success = true;
-    private String smg = "操作成功";
+    private String msg = "操作成功";
     private Object obj;
 
     public AjaxResult() {
@@ -10,7 +16,7 @@ public class AjaxResult {
 
     public AjaxResult(boolean success, String smg, Object obj) {
         this.success = success;
-        this.smg = smg;
+        this.msg = smg;
         this.obj = obj;
     }
 
@@ -23,12 +29,12 @@ public class AjaxResult {
         return this;
     }
 
-    public String getSmg() {
-        return smg;
+    public String getMsg() {
+        return msg;
     }
 
-    public AjaxResult setSmg(String smg) {
-        this.smg = smg;
+    public AjaxResult setSmg(String msg) {
+        this.msg = msg;
         return this;
     }
 
@@ -45,8 +51,11 @@ public class AjaxResult {
     public String toString() {
         return "AjaxResult{" +
                 "success=" + success +
-                ", smg='" + smg + '\'' +
+                ", msg='" + msg + '\'' +
                 ", obj=" + obj +
                 '}';
     }
+    Map map = new HashMap<AjaxResult,String>();
+
+
 }

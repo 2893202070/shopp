@@ -2,14 +2,14 @@ package com.moyu.shopp.domain;
 
 public class Employee {
     private String name;
-    private String passworld;
+    private String password;
 
     public Employee() {
     }
 
     public Employee(String name, String passworld) {
         this.name = name;
-        this.passworld = passworld;
+        this.password = passworld;
     }
 
     public String getName() {
@@ -20,19 +20,19 @@ public class Employee {
         this.name = name;
     }
 
-    public String getPassworld() {
-        return passworld;
+    public String getPassword() {
+        return password;
     }
 
-    public void setPassworld(String passworld) {
-        this.passworld = passworld;
+    public void setPassword(String passworld) {
+        this.password = passworld;
     }
 
     @Override
     public String toString() {
         return "Employee{" +
                 "name='" + name + '\'' +
-                ", passworld='" + passworld + '\'' +
+                ", passworld='" + password + '\'' +
                 '}';
     }
 }

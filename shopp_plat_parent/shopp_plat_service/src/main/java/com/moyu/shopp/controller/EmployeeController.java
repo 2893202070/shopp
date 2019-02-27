@@ -15,7 +15,7 @@ public class EmployeeController {
     @RequestMapping(value = "/login",method = RequestMethod.POST)
     //@RequestBody 让前台给这个对象自动赋值
     public AjaxResult login(@RequestBody Employee employee){
-        if (employee.getName().equals("admin")&&employee.getPassworld().equals("admin")){
+        if (employee.getName().equals("admin")&&employee.getPassword().equals("admin")){
             return new AjaxResult();
         }
             return new AjaxResult().setSuccess(false).setSmg("登陆失败");
