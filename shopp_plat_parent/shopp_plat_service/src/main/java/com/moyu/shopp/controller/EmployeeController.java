@@ -18,6 +18,6 @@ public class EmployeeController {
         if (employee.getName().equals("admin")&&employee.getPassword().equals("admin")){
             return new AjaxResult();
         }
-            return new AjaxResult().setSuccess(false).setSmg("登陆失败");
+            return new AjaxResult().setSuccess(false).setMsg("登陆失败");
     }
 }

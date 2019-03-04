@@ -9,20 +9,18 @@ import java.util.Set;
 public class AjaxResult {
     private boolean success = true;
     private String msg = "操作成功";
-    private Object obj;
 
-    public AjaxResult() {
-    }
+    private Object object;//对象值:供我们在返回前台的时候，可以返回一个对象
 
-    public AjaxResult(boolean success, String smg, Object obj) {
-        this.success = success;
-        this.msg = smg;
-        this.obj = obj;
+
+    public static AjaxResult me() {
+        return new AjaxResult();
     }
 
     public boolean isSuccess() {
         return success;
     }
+
 
     public AjaxResult setSuccess(boolean success) {
         this.success = success;
@@ -33,17 +31,17 @@ public class AjaxResult {
         return msg;
     }
 
-    public AjaxResult setSmg(String msg) {
-        this.msg = msg;
+    public Object getObject() {
+        return object;
+    }
+
+    public AjaxResult setObject(Object object) {
+        this.object = object;
         return this;
     }
 
-    public Object getObj() {
-        return obj;
-    }
-
-    public AjaxResult setObj(Object obj) {
-        this.obj = obj;
+    public AjaxResult setMsg(String msg) {
+        this.msg = msg;
         return this;
     }
 
@@ -52,10 +50,14 @@ public class AjaxResult {
         return "AjaxResult{" +
                 "success=" + success +
                 ", msg='" + msg + '\'' +
-                ", obj=" + obj +
+                ", object=" + object +
                 '}';
     }
-    Map map = new HashMap<AjaxResult,String>();
 
+    public static void main(String[] args) {
+        //链式编程
+        AjaxResult ajaxResult = AjaxResult.me().setSuccess(true).setMsg("sd").setObject("ssdf");
+        System.out.println(ajaxResult);
+    }
 
 }

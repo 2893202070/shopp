@@ -14,7 +14,7 @@
         <!--引入公共模块-->
         <dependency>
             <groupId>com.moyu</groupId>
-            <artifactId>shopp_basic_utils</artifactId>
+            <artifactId>shopp_basic_parent</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
 

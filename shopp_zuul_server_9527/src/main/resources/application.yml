@@ -12,8 +12,15 @@ eureka:
     prefer-ip-address: true
 #安全加固
 zuul:
+  host:
+    connect-timeout-millis: 3000
+    socket-timeout-millis: 3000
   routes:
-    wbUser.serviceId: employee-provider
-    wbUser.path: /login/**  #/wbUser/**这个路径的访问都路由到serverId服务处理
+    employee.serviceId: employee-provider
+    employee.path: /login/**  #/wbUser/**这个路径的访问都路由到serverId服务处理
+    product.serviceId: shopp-product
+    product.path: /product/**  #/wbUser/**这个路径的访问都路由到serverId服务处理
+    common.serviceId: common-provider
+    common.path: /common/**  #/wbUser/**这个路径的访问都路由到serverId服务处理
   ignored-services: "*"  # 忽略这个服务，如果要忽略所有的服务， “*”
   prefix: "/hello"

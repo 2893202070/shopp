@@ -14,6 +14,9 @@
         <module>shopp_eureka_server_7001</module>
         <module>shopp_plat_parent</module>
         <module>shopp_zuul_server_9527</module>
+        <module>shopp_product_parent</module>
+        <module>shopp_mp_generated</module>
+        <module>shopp_common_parent</module>
     </modules>
 
     <properties>
